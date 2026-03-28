@@ -131,16 +131,11 @@ Este projeto está sob a licença MIT.
 Desenvolvido por Rafaela Araújo 
 
 ---
-### 1. Badges no topo
-```md
-![Node.js](https://img.shields.io/badge/Node.js-18-green)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-``` 
-
 ### 2. Exemplo de JSON de resposta
-
+```json
 {
   "id": 1,
   "name": "Produto Exemplo",
   "price": 29.90
 }
+```
