@@ -131,11 +131,3 @@ Este projeto está sob a licença MIT.
 Desenvolvido por Rafaela Araújo 
 
 ---
-### 2. Exemplo de JSON de resposta
-```json
-{
-  "id": 1,
-  "name": "Produto Exemplo",
-  "price": 29.90
-}
-```
