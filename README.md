@@ -22,7 +22,6 @@ O objetivo principal é praticar conceitos de desenvolvimento backend, organiza�
 ---
 
 ## Funcionalidades
----
 
 ### Produtos
 - Listar todos os produtos
@@ -86,22 +85,24 @@ src/
 ---
 
 ## Como Executar o Projeto
-
-### 1. Clone o repositório
 ```bash
+1. Clone o repositório
 git clone https://github.com/raphimw2e/digital-store-backend.git
+
 2. Acesse a pasta
 cd digital-store-backend
+
 3. Instale as dependências
-npm install
-3.1. npm install express
-3.2. npm install dotenv
-3.3. npm install sequelize
-3.4. npm install jsonwebtoken
-3.5. npm install bcryptjs
-3.6. npm install cors
-3.7. npm install --save-dev nodemon sequelize-cli
-3.8. npm install swagger-jsdoc swagger-ui-express 
+3.1. npm install
+3.2. npm install express
+3.3. npm install dotenv
+3.4. npm install sequelize
+3.5. npm install jsonwebtoken
+3.6. npm install bcryptjs
+3.7. npm install cors
+3.8. npm install --save-dev nodemon sequelize-cli
+3.9. npm install swagger-jsdoc swagger-ui-express
+
 4. Execute o servidor
 npm start
 ```
