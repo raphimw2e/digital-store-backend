@@ -101,6 +101,7 @@ npm install
 3.5. npm install bcryptjs
 3.6. npm install cors
 3.7. npm install --save-dev nodemon sequelize-cli
+3.8. npm install swagger-jsdoc swagger-ui-express 
 4. Execute o servidor
 npm start
 ```
