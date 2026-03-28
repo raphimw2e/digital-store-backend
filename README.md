@@ -73,14 +73,14 @@ O objetivo principal é praticar conceitos de desenvolvimento backend, organiza�
 ---
 
 ## Estrutura do Projeto
-
+```
 src/
 ├── routes/
 ├── controllers/
 ├── services/
 ├── data/
 └── app.js
-
+```
 
 ---
 
