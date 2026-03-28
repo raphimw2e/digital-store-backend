@@ -1,4 +1,4 @@
-# 🛒 Digital Store - Backend
+# Digital Store - Backend
 
 API backend de uma aplicação de e-commerce digital, responsável pelo gerenciamento de produtos e carrinhos de compra.
 
@@ -12,7 +12,7 @@ O objetivo principal é praticar conceitos de desenvolvimento backend, organiza�
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Node.js
 - Express.js
